@@ -11,10 +11,10 @@ The reasons why tech excites me are similar to why I studied Chemistry, in that 
 
 | Name         | Description       | Tech/tools        |
 | ------------ | ----------------- | ----------------- |
-| [**Acebook**](https://github.com/EviePalaiochorinou/acebook-on-the-rails)  | A clone of classic facebook; group project | Ruby on Rails, JS, Github actions CI/CD |
-| [**ChemCalc**](https://github.com/Inimesh/ChemCalc) | A Python GUI program to help Chemists quickly convert between compound quantities| Python, Tkinter |
-| [**Random Quote Generator**](https://github.com/Inimesh/Random-Quote-Generator) | A single-page web app that randomly generates quotes| React, Javascript |
-| [**Markdown Previewer**](https://github.com/Inimesh/markdown_text_previewer) | A single-page web app that dynamically renders a preview of user input in markdown syntax  | React, Javascript |
+| [**Acebook**](https://github.com/EviePalaiochorinou/acebook-on-the-rails)  | A clone of classic facebook; group project | Ruby on Rails, JS, Github Actions CI/CD |
+| [**ChemCalc**](https://github.com/Inimesh/ChemCalc) | A Python GUI program to help Chemists quickly convert between compound quantities| Python (numpy, pandas), Tkinter |
+| [**Random Quote Generator**](https://github.com/Inimesh/Random-Quote-Generator) | A single-page web app that randomly generates quotes| React, JS |
+| [**Markdown Previewer**](https://github.com/Inimesh/markdown_text_previewer) | A single-page web app that dynamically renders a preview of user input in markdown syntax  | React, JS |
 
 For more, visit my Github [here](https://github.com/Inimesh)
 
