@@ -1,6 +1,6 @@
 ## Inigo Meshoulam
 
-A naturally curious and hard-working junior software developer, recently graduated from [Makers Academy](https://makers.tech/about-us/). I love to learn, and I am excited to start my career in a role where I can immerse myself and learn as much as possible while making a meaningful contribution to exciting new ventures! 
+A naturally curious and hard-working junior software developer, recently graduated from [Makers Academy](https://makers.tech/about-us/). I love to learn, and I am excited to start my career in a role where I can immerse myself and learn as much as possible while making a meaningful contribution to exciting new projects! 
 
 As well as learning technical skills, studying at Makers has been first and foremost a self-development process. I now feel confident in my abilities to effectively break down a complex problem, plan a project to tackle it, and then execute it collaboratively using agile working techniques and coding best practices.
 
