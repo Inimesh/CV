@@ -13,6 +13,8 @@ The reasons why tech excites me are similar to why I studied Chemistry, in that 
 | ------------ | ----------------- | ----------------- |
 | [**Acebook**](https://github.com/EviePalaiochorinou/acebook-on-the-rails)  | A clone of classic facebook; group project | Ruby on Rails, JS, Github actions CI/CD |
 | [**ChemCalc**](https://github.com/Inimesh/ChemCalc) | A Python GUI program to help Chemists quickly convert between compound quantities| Python, Tkinter |
+| [**Random Quote Generator**](https://github.com/Inimesh/Random-Quote-Generator) | A single-page web app that randomly generates quotes| React, Javascript |
+| [**Markdown Previewer**](https://github.com/Inimesh/markdown_text_previewer) | A single-page web app that dynamically renders a preview of user input in markdown syntax  | React, Javascript |
 
 For more, visit my Github [here](https://github.com/Inimesh)
 
@@ -20,15 +22,15 @@ For more, visit my Github [here](https://github.com/Inimesh)
 
 **Supportive**
 
-I really love helping people. Given that I had some prior exposure to computer science concepts before studying at Makers, I beleive I had a head start compared to complete newcomers. As a result I was very active in providing support and learning materials to fellow cohort members and to my pair-partners. I am also currently mentoring a Makers student a few cohorts below me. I would receive consistent praise from fellow cohort members in our weekly retros, which I believe reflects my efforts.
+I believe that helping others is one of the best parts of any job. Given that I had some limited prior exposure to computer science concepts before studying at Makers, I had a head start compared to complete newcomers. As a result I was very active in providing support and learning materials to fellow cohort members and to my pair-partners. I am also currently mentoring a Makers student a few cohorts below me. I received consistent praise from fellow cohort members in our weekly retros, which I believe reflects my efforts.
 
 **Problem-Solver**
 
-I relish trying to crack problems and would actively seek out extra challenges and puzzles while studying at Makers (See my write-up of [Conway's Game of Life]()). I am always interested in finding a more efficient and elegant solution to a problem. I achieved a first class mark in my final year chemical research project at University, which took a lot of careful planning and efficient execution.
+I relish a puzzle and I actively sought out extra challenges while studying at Makers (see my take on programming [Conway's Game of Life](https://github.com/Inimesh/game_of_life)). I am always interested in finding a more efficient and elegant solution to a problem. During my year-long Master's chemical research project, my experiments suffered a wide variety of (lab and non-lab related) setbacks and issues. I was able to overcome all of these obstacles using my diagnostic capabilities, careful planning and efficient execution - achieving a first class mark for the project.
 
 **Independent Learner**
 
-During lockdown I was unemployed without furlough and took it upon myself to learn as much about computer science as I could, completing multiple online courses and practicing basic coding abilities. While in sixth form I wanted to study biology for A-level but was told I could not because of class timetable clashes, so I took it upon myself to teach it to myself in the school library during free periods, a task that took a lot of self-discipline and diligence. 
+During lockdown I was unemployed without furlough and took it upon myself to learn as much about computer science as I could, completing multiple online courses and practicing basic coding abilities. The Omicron variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this change. While in sixth form I taught myself AS level biology completely on my own during my free periods and at home. It was a task that took a lot of self-discipline, diligence and dedication in which I acheived an the highest grade for the qualification (A). 
 
 **Initiative and strategy**
 
