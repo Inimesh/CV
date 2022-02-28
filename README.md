@@ -40,6 +40,7 @@ I believe that I am good at identifying bottlenecks and prioritising tasks. For 
 
 **Farpoint Labs (Fintech Start-up)** (Nov 2020 - Jan 2021)  
 _Data Analysis Intern_
+
 Technologies used: Python (pandas, numpy, matplotlib)
 
 Responsibilities:
