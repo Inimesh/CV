@@ -72,7 +72,7 @@ Achievements:
 - Object-Oriented Design
 - Agile methodologies
 - CI/CD
-- Databases/SQL
+- Databases + SQL
 - Javascript
 - Single-page web applications (React)
 - MVC Architecture (Ruby on Rails, Sinatra)
