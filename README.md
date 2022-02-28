@@ -68,13 +68,14 @@ Achievements:
 ## Education
 
 #### Makers Academy (Nov 2021 - Feb 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Test-Driven Development
+- Object-Oriented Design
+- Agile methodologies
+- CI/CD
+- Databases/SQL
+- Javascript
+- Single-page web applications (React)
+- MVC Architecture (Ruby on Rails, Sinatra)
 
 #### The University of Manchester (Sep 2015 - Jun 2019)
 *MChem Hons. Chemistry with International Study (1st)*
