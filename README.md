@@ -100,4 +100,4 @@ Relevant units:
 - Data collection and processing (REST APIs), OOP principles and applications, Unit testing.
 
 ## Hobbies
-I adore food and cooking for friends and family! I love the outdoors (especially mountains) and enjoy hiking, camping and snowsports. To relax I love playing video games (usually nerdy historical/strategy) and doing arts and crafts, mainly lino print design and carving.
+I adore food and cooking for friends and family! I love the outdoors (especially mountains) and enjoy hiking, camping and snow sports. To relax I love playing video games (usually nerdy historical/strategy) and doing arts and crafts, mainly lino print design and carving.
