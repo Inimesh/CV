@@ -81,7 +81,7 @@ Achievements:
 *MChem Hons. Chemistry with International Study (1st)*
 
 Relevant units:
-- Computer Science
+- Intro to Computer Science
 - Computational Chemistry
 
 #### The Elmgreen School (2008 - 2016)
