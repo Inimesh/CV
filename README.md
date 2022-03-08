@@ -32,9 +32,9 @@ I relish a puzzle and I am always interested in finding a more efficient/elegant
 
 During lockdown I was unemployed without furlough and during this time I cultivated a renewed interest in computer science. I completed online courses on ML and algorithms, and started practicing coding (while led me to joining Makers Academy). The Omicron covid variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this interruption. Another example is that my Biology AS-level was completely self-taught. This took a lot of self-discipline, diligence and dedication on my part and I was successful achieving the highest grade for the qualification (A). 
 
-**Initiative and strategy**
+**Initiative and leadership**
 
-I believe that I am good at identifying bottlenecks and prioritising tasks. For the final project at Makers, for the first half of the week my team was getting bogged down in trying to work around an inaccessible (must be FCA registered) open-banking API. This was causing us to become demoralised and anxious of approaching deadlines. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priorities re-improved morale and led to us to have our MVP by the end of the week.
+I am effective at identifying bottlenecks and prioritising tasks. For the first half of the week of our final project at Makers, my team was getting bogged down in trying to work around an inaccessible (must be FCA registered) open-banking API to meet our MVP. Slow progress and approaching deadlines was causing the team to become demoralised and anxious. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priorities reinvigorated morale and led to us to achieve our MVP by the end of the week.
 
 ## Work Experience
 
