@@ -36,7 +36,7 @@ During lockdown I was unemployed without furlough and took it upon myself to lea
 
 I believe that I am good at identifying bottlenecks and prioritising tasks. For the final project at Makers, my team was getting bogged down in trying to work-around an inaccessible open-banking API, which was causing us to become demoralised and anxious of approaching deadlines. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priority re-kindled spirits and led us to becoming more productive with our time.
 
-## Relevant Work Experience
+## Work Experience
 
 **Farpoint Labs (Fintech Start-up)** (Nov 2020 - Jan 2021)  
 _Data Analysis Intern_
@@ -44,12 +44,11 @@ _Data Analysis Intern_
 Technologies used: Python (pandas, numpy, matplotlib)
 
 Responsibilities:
-- Design a consumer survey to identify a beach-head market for the product (Surveymonkey)
-- Identify sought after features per market group identified
-- Using data analysis, deduce the most appropriate pricing strategy for these features
+- Design a consumer surveys to identify a beach-head market for the product
+- Identify the most sought after features per market group identified and deduce the most effective pricing strategy.
 
 Achievements: 
-- My research and survey design led to using a MaxDiff analysis; solving the problem of providing enough useful data while satisfying single survey length/budget requirements.
+- My research into survey design led to using a MaxDiff analysis; solving the problem of providing enough useful data while satisfying single survey length/budget requirements.
 - My subsequent analysis (Python code can be found [here](https://github.com/Inimesh/Example-Data-Analysis-using-Python)) and presentation was highly praised by the CEO and other company members
 - My work provided key insights for the MVP of the app and the most effective pricing strategy for each feature, which was subsequently adopted as the product roadmap.   
 
@@ -57,13 +56,27 @@ Achievements:
 _Explainer_
 
 Role summary:
-Actively engaging with visitors by giving talks and explaining exhibits, promoting science education to families, school groups and SEN visitors. 
+Active engagement with visitors; giving talks and explaining exhibits, promoting science education to families, school groups and SEN visitors. 
 
 Achievements:
-- Significantly contributed to research on exhibit topics (mainly relating to Chemistry); this was well-received and was documented and used by colleagues.
-- Successfully held voluntary special subject talks based on collaborative and independent research, with positive feedback from visitors and managers.
-- Effective flexible time-management skills, keeping to a busy schedule that changed daily and was continually amended.
-- Marked improvement on public speaking and presentation skills, being able to quickly adapt to audiences with varied backgrounds and levels of subject knowledge.
+- Significantly contributed to research on exhibit topics which was well-received and used presentation scripts.
+- Volunteered for feature subject talks based on collaborative and independent research, with positive feedback from visitors and line-managers.
+- Effective time-management skills, keeping to a busy hourly schedule that changed daily and adapting to continuous amendment.
+- Marked improvement on public speaking and presentation skills, being able to quickly adapt information to audiences with widely varying backgrounds and levels of subject knowledge.
+
+**Hospitality** (2018 - Feb 2021)  
+_Waiter/Bar Staff/Back of House_
+
+Role summary:
+- Waiter: Serving food/drinks, customer care.
+- Bar Staff: Mixing + serving cocktails, customer communication.
+- Back of House Supervisor: ensuring smooth operation of a 1,500 capacity roof top bar and managing colleagues.
+
+Achievements:
+- Maintaining constant and clear communication with colleagues to solve problems - these skills have helped me develop highly effective pair-programming skills.
+- Understanding customer needs while ensuring a quality experience through positive engagement - these skills have helped my analysis of user stories/client requirements.
+- Attention-to-detail while processing long and complex orders with efficient execution - practice in finding efficiency in tasks has helped me with ensuring code quality.
+- Task prioritisation/identifying bottlenecks while working under pressure in a very busy environment - these skills have helped me plan projects and adapt to changing circumstances.
 
 ## Education
 
