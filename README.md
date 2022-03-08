@@ -22,15 +22,15 @@ For more, visit my Github [here](https://github.com/Inimesh)
 
 **Supportive**
 
-I believe that helping others is one of the best parts of any job. Given that I had some limited prior exposure to computer science concepts before studying at Makers, I had a head start compared to complete newcomers. As a result I was very active in providing support and learning materials to fellow cohort members and to my pair-partners. I am also currently mentoring a Makers student a few cohorts below me. I received consistent praise from fellow cohort members in our weekly retros, which I believe reflects my efforts.
+I believe that helping others is one of the best parts of any job. Given that I had some limited prior exposure to computer science concepts before studying at Makers, I was very active in providing support and sharing knowledge with fellow cohort members and to my pair-partners. I am also currently mentoring a Makers student a few cohorts below me. I received consistent praise from fellow cohort members in our weekly retros, which I believe reflects my efforts.
 
 **Problem-Solver**
 
-I relish a puzzle and I am always interested in finding a more efficient/elegant solution. I actively sought out extra challenges while studying at Makers (see my take on programming [Conway's Game of Life](https://github.com/Inimesh/game_of_life)). During my year-long Master's chemical research project, my experiments suffered a wide variety of (lab and non-lab related) setbacks and issues. I was able to overcome all of these obstacles using my diagnostic capabilities, careful planning and efficient execution - achieving an overall first class mark for the project.
+I relish a puzzle and I am always interested in finding a more efficient/elegant solution (see my take on programming [Conway's Game of Life](https://github.com/Inimesh/game_of_life)). During my Master's research project, the vessel that I was performing my reaction in broke overnight - this was key to future work. I was able to identify other tasks I could get on with while repeating my experiment, avoiding a major bottleneck in my workflow.
 
 **Independent Learner**
 
-During lockdown I was unemployed without furlough and during this time I cultivated a renewed interest in computer science. I completed online courses on ML and algorithms, and started practicing coding (while led me to joining Makers Academy). The Omicron covid variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this interruption. While in sixth form I taught myself AS level biology completely on my own during my free periods and at home. It was a task that took a lot of self-discipline, diligence and dedication in which I achieved the highest grade for the qualification (A). 
+During lockdown I was unemployed without furlough and during this time I cultivated a renewed interest in computer science. I completed online courses on ML and algorithms, and started practicing coding (while led me to joining Makers Academy). The Omicron covid variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this interruption. Another example is that my Biology AS-level was completely self-taught. This took a lot of self-discipline, diligence and dedication on my part and I was successful achieving the highest grade for the qualification (A). 
 
 **Initiative and strategy**
 
