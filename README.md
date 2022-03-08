@@ -4,7 +4,7 @@ A naturally curious and hard-working junior software developer, recently graduat
 
 As well as learning technical skills, studying at Makers has been first and foremost a self-development process. I now feel confident in my abilities to effectively break down a complex problem, plan a project to tackle it, and then execute it collaboratively using agile working techniques and coding best practices.
 
-The reasons why tech excites me are similar to why I studied Chemistry, in that it is all about finding solutions to problems by creating mechanisms within specific constraints. Not just any solution however, a water-tight solution that is elegant, efficient, well-tested and robust as possible; creating, and then testing your creation! 
+The reasons why tech excites me is that it is all about finding solutions to problems by creating mechanisms within specific constraints. Not just any solution however, a water-tight solution that is elegant, efficient, well-tested and robust as possible; creating, and then testing your creation! 
 
 
 ## Projects
@@ -26,15 +26,15 @@ I believe that helping others is one of the best parts of any job. Given that I 
 
 **Problem-Solver**
 
-I relish a puzzle and I actively sought out extra challenges while studying at Makers (see my take on programming [Conway's Game of Life](https://github.com/Inimesh/game_of_life)). I am always interested in finding a more efficient and elegant solution to a problem. During my year-long Master's chemical research project, my experiments suffered a wide variety of (lab and non-lab related) setbacks and issues. I was able to overcome all of these obstacles using my diagnostic capabilities, careful planning and efficient execution - achieving a first class mark for the project.
+I relish a puzzle and I am always interested in finding a more efficient/elegant solution. I actively sought out extra challenges while studying at Makers (see my take on programming [Conway's Game of Life](https://github.com/Inimesh/game_of_life)). During my year-long Master's chemical research project, my experiments suffered a wide variety of (lab and non-lab related) setbacks and issues. I was able to overcome all of these obstacles using my diagnostic capabilities, careful planning and efficient execution - achieving an overall first class mark for the project.
 
 **Independent Learner**
 
-During lockdown I was unemployed without furlough and took it upon myself to learn as much about computer science as I could, completing multiple online courses and practicing basic coding abilities. The Omicron variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this change. While in sixth form I taught myself AS level biology completely on my own during my free periods and at home. It was a task that took a lot of self-discipline, diligence and dedication in which I acheived an the highest grade for the qualification (A). 
+During lockdown I was unemployed without furlough and during this time I cultivated a renewed interest in computer science. I completed online courses on ML and algorithms, and started practicing coding (while led me to joining Makers Academy). The Omicron covid variant meant that the majority of the Makers course ended up being fully remote. I was able to adapt to this and remain focused and successful in my studies despite this interruption. While in sixth form I taught myself AS level biology completely on my own during my free periods and at home. It was a task that took a lot of self-discipline, diligence and dedication in which I achieved the highest grade for the qualification (A). 
 
 **Initiative and strategy**
 
-I believe that I am good at identifying bottlenecks and prioritising tasks. For the final project at Makers, my team was getting bogged down in trying to work-around an inaccessible open-banking API, which was causing us to become demoralised and anxious of approaching deadlines. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priority re-kindled spirits and led us to becoming more productive with our time.
+I believe that I am good at identifying bottlenecks and prioritising tasks. For the final project at Makers, for the first half of the week my team was getting bogged down in trying to work around an inaccessible open-banking API. This was causing us to become demoralised and anxious of approaching deadlines. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priorities re-improved morale and led to us to have our MVP by the end of the week.
 
 ## Work Experience
 
