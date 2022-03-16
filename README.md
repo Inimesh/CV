@@ -1,11 +1,23 @@
 ## Inigo Meshoulam
 
-A naturally curious and hard-working junior software developer, recently graduated from [Makers Academy](https://makers.tech/about-us/). I love to learn, and I am excited to start my career in a role where I can immerse myself and learn as much as possible while making a meaningful contribution to exciting new projects! 
+A creative, hard-working and dedicated software developer, recently graduated from [Makers Academy](https://makers.tech/about-us/). I'm excited to start my career in a role where I can immerse myself and learn as much as possible while making a meaningful contribution to exciting new projects. 
 
-As well as learning technical skills, studying at Makers has been first and foremost a self-development process. I now feel confident in my abilities to effectively break down a complex problem, plan a project to tackle it, and then execute it collaboratively using agile working techniques and coding best practices.
+I knew that technology was right for me for three main reasons.  
+Firstly because software is an integral aspect of almost all sectors, providing the opportunity to work in a diverse range of teams and fields. Being a naturally curious person this flexibility is something that is really exciting to me.  
 
-The reasons why tech excites me is that it is all about finding solutions to problems by creating mechanisms within specific constraints. Not just any solution however, a water-tight solution that is elegant, efficient, well-tested and robust as possible; creating, and then testing your creation! 
+Secondly because of the direct impact it can have on people lives and communities. I believe that creating tools for constructive engagement with things such as sustainable technology, positive social impact, medicine and personal independence is extremely important.  
 
+The final reason is that I get to do creative problem-solving every day. I love the challenge of finding a solution to a problem by creating mechanisms within specific constraints. Not just any solution however, a water-tight solution that is elegant, efficient, well-tested and robust as possible; creating, and then testing your creation! I am especially interested in applications involving data pipelines, automation and creating interactive user-friendly interfaces.
+
+## Tech Stack
+- JavaScript (React, React-Native, Node.js, Express, Jest)
+- Ruby (Rails, Sinatra, Rspec, Capybara)
+- Python (Pandas, Numpy)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS
+- CI/CD (GitHub Actions)
+- Heroku, AWS S3
+- Git version control & GitHub repository management
 
 ## Projects
 
@@ -81,14 +93,10 @@ Achievements:
 ## Education
 
 #### Makers Academy (Nov 2021 - Feb 2022)
-- Test-Driven Development
-- Object-Oriented Design
-- Agile methodologies
-- CI/CD
-- Databases + SQL
-- Javascript
-- Single-page web applications (React)
-- MVC Architecture (Ruby on Rails, Sinatra)
+- Test-Driven Development: Understanding the principles and practice of TDD, used as the basis for all projects undertaken at Makers with ≥ 80% coverage. 
+- Best Practices: Object-Oriented Programming (SOLID) principles coupled with unit testing and documentation to write readable and concise modular code.
+- Web Technologies: MVC design patterns and single-page front-ends implemented in API building and full-stack applications.
+- Agile Methodologies: Project management and workflow practices, implementing diagramming, sprint planning, stand-ups and retros, and daily pair-programming.
 
 #### The University of Manchester (Sep 2015 - Jun 2019)
 *MChem Hons. Chemistry with International Study (1st)*
