@@ -43,7 +43,7 @@ _Data Analysis Intern_
 
 Technologies used: Python (pandas, numpy, matplotlib)
 
-Responsibilities:
+Role Summary:  
 - Design a consumer surveys to identify a beach-head market for the product
 - Identify the most sought after features per market group identified and deduce the most effective pricing strategy.
 
@@ -55,7 +55,7 @@ Achievements:
 **Science Museum Group (London Science Museum)** (Sep 2019 - Feb 2020)  
 _Explainer_
 
-Role summary:
+Role Summary:  
 Active engagement with visitors; giving talks and explaining exhibits, promoting science education to families, school groups and SEN visitors. 
 
 Achievements:
@@ -67,7 +67,7 @@ Achievements:
 **Hospitality** (2018 - Feb 2021)  
 _Waiter/Bar Staff/Back of House_
 
-Role summary:
+Role summary:  
 - Waiter: Serving food/drinks, customer care.
 - Bar Staff: Mixing + serving cocktails, customer communication.
 - Back of House Supervisor: ensuring smooth operation of a 1,500 capacity roof top bar and managing colleagues.
