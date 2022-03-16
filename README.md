@@ -64,14 +64,14 @@ Achievements:
 - My subsequent analysis (Python code can be found [here](https://github.com/Inimesh/Example-Data-Analysis-using-Python)) and presentation was highly praised by the CEO and other company members
 - My work provided key insights for the MVP of the app and the most effective pricing strategy for each feature, which was subsequently adopted as the product roadmap.   
 
-**Science Museum Group (London Science Museum)** (Sep 2019 - Feb 2020)  
+**London Science Museum** (Sep 2019 - Feb 2020)  
 _Explainer_
 
 Role Summary:  
 Active engagement with visitors; giving talks and explaining exhibits, promoting science education to families, school groups and SEN visitors. 
 
 Achievements:
-- Significantly contributed to research on exhibit topics which was well-received and used presentation scripts.
+- Significantly research contributions to exhibit topics which was well-received and used presentation scripts.
 - Volunteered for feature subject talks based on collaborative and independent research, with positive feedback from visitors and line-managers.
 - Effective time-management skills, keeping to a busy hourly schedule that changed daily and adapting to continuous amendment.
 - Marked improvement on public speaking and presentation skills, being able to quickly adapt information to audiences with widely varying backgrounds and levels of subject knowledge.
@@ -96,7 +96,7 @@ Achievements:
 - Test-Driven Development: Understanding the principles and practice of TDD, used as the basis for all projects undertaken at Makers with ≥ 80% coverage. 
 - Best Practices: Object-Oriented Programming (SOLID) principles coupled with unit testing and documentation to write readable and concise modular code.
 - Web Technologies: MVC design patterns and single-page front-ends implemented in API building and full-stack applications.
-- Agile Methodologies: Project management and workflow practices, implementing diagramming, sprint planning, stand-ups and retros, and daily pair-programming.
+- Agile Methodologies: Project management and workflow practices, implementing diagramming, sprint planning, stand-ups, retros, and daily pair-programming.
 
 #### The University of Manchester (Sep 2015 - Jun 2019)
 *MChem Hons. Chemistry with International Study (1st)*
@@ -106,7 +106,8 @@ Relevant units:
 - Computational Chemistry
 
 #### The Elmgreen School (2008 - 2016)
-*A-Levels*:    Chemistry – A*, History – A*, Physics – A, Biology AS – A (self-taught).
+*A-Levels*:    Chemistry – A*, History – A*, Physics – A, Biology AS – A (self-taught).  
+*GCSEs*:       12 (8 A*, 4 A) including Maths and English at A and A* respectively.
 
 ---
 #### Online Courses and self-study (2020 - 2021)
